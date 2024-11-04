@@ -16,7 +16,7 @@
 #
 # Como construir la cadena para pasarla como orden SQLite?
 #
-# La base de datos se llama test1.db
+# La base de datos se llama test11.db
 #
 # La tabla 1 se llama page1. La tabla contiene parrafos de un libro o preguntas de un test
 #
