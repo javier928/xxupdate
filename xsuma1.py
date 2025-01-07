@@ -1,8 +1,6 @@
 ###################################################################
 #
-# Programa xsuma1.py desarrollado en Python 3 en 
-#
-# Windows 10
+# Programa xsuma1.py desarrollado en Python 3 en Windows 10
 #
 # El script visualiza el primer registro de la tabla page1 y
 #
@@ -16,7 +14,9 @@
 #
 # Como construir la cadena para pasarla como orden SQLite?
 #
-# La base de datos se llama test11.db
+# La base de datos se llama test11.db. Puede descargar el archivo .db visitando:
+#
+# https://github.com/javier928/xxupdate
 #
 # La tabla 1 se llama page1. La tabla contiene parrafos de un libro o preguntas de un test
 #
@@ -24,11 +24,11 @@
 #
 # La tabla 2 se llama page2. La tabla contiene mas parrafos del libro o mas preguntas de un test.
 #
-# La tabla 10 se llama page3.La tabla contiene mas parrafos del libro.El libro contiene 10 paginas (10 tablas).
+# La tabla 9 se llama page9.La tabla contiene mas parrafos del libro.El libro contiene 10 paginas (10 tablas).
 #
-# La tabla tiene los siguientes campos (todos son tipo texto excepto booknn y pagenn):
+# La tabla tiene los siguientes campos (todos son tipo texto excepto booknn y pagenn, que son numericos):
 #
-# line1, line2...line20, pagenn
+# line1, line2...line20
 #
 # Que campo estamos utilizando para filtrar registros? pagenn
 #
