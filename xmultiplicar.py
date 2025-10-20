@@ -1,5 +1,5 @@
 
-# definicion de funciones
+# Definicion de funciones. BY JAVIER GARCIA
 
 def examen():
     puntos=0
@@ -30,5 +30,6 @@ b=" Microsoft Windows."
 print(a+b)
 examen()
 print("Fin de la prueba.")
+
 
 
