@@ -10,12 +10,20 @@ def examen():
         puntos=puntos+1
     #endif
     #PREGUNTA 2
-    A="imprimir el cuadrado de la variable X en pantalla: print o print(X*X) ?"
-    xxx = input("""Cual es la orden que debemos teclear para """+A)
+    Q2="imprimir el cuadrado de la variable X en pantalla: print o print(X*X) ?"
+    xxx = input("""Cual es la orden que debemos teclear para """+Q2)
     if xxx=="print(X*X)":
         print("Respuesta correcta. Tienes 1 punto.")
         puntos=puntos+1
     #endif
+    #PREGUNTA 3
+    Q3=" administrar un sitio web de manera sencilla."
+    xxx = input("""Un CMS o sistema de gestión de contenidos es una plataforma que permite crear y """+Q3)
+    if xxx=="print(X*X)":
+        print("Respuesta correcta. Tienes 1 punto.")
+        puntos=puntos+1
+    #endif
+    
     print("Tu nota final es:")
     print(puntos)
 
@@ -30,6 +38,7 @@ b=" Microsoft Windows."
 print(a+b)
 examen()
 print("Fin de la prueba.")
+
 
 
 
