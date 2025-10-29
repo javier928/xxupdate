@@ -1,4 +1,4 @@
-# Flavio
+# 
 # Vamos a hacer un programa que realiza un segundo test de CUATRO preguntas sobre
 # Microsoft windows,CMS,Wordpress y Tiendas Virtuales en España
 # Un CMS (Sistema de Gestion de Contenidos) es una herramienta que permite
@@ -65,4 +65,5 @@ C="Tiendas Virtuales en España. "
 F=A+B+C
 print(F)
 examen2()
+
 print("Fin  de la prueba.")
